@@ -128,7 +128,7 @@ def add_tag():
         print(notes)
     else:
         print("Заметка для добавления тега не выбрана!")
- 
+ # craftff
 def del_tag():
     if list_tags.selectedItems():
         key = list_notes.selectedItems()[0].text()
