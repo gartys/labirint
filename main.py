@@ -164,7 +164,7 @@ def search_tag():
         print(button_tag_search.text())
     else:
         pass
-    
+#     жоский код
 '''Запуск приложения'''
 #подключение обработки событий
 button_note_create.clicked.connect(add_note)
